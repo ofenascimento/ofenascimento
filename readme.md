@@ -13,20 +13,19 @@
 
 <h3> Veja alguns dos meus projetos: </h3>
 
-<h4> :computer: Sites </h4> 
+### <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="50"> Sites
 
  Portfólio em ReactJS: <a href="https://gomestzx.github.io/"> gomestzx.github.io </a> <br>
  packsgratuitos.com: <a href="https://packsgratuitos.com"> packsgratuitos.com </a> <br>
  wallpaper4geek.com: <a href="https://wallpaper4geek.com">wallpaper4geek.com</a> <br>
  Gerador de glassmorfismo para css <a href="https://glassmorphism-css.vercel.app/"> glasscssgenerator.vercel.app </a>
  
- <h4> :iphone: Aplicativos </h4>
+ ### <img src="https://media.giphy.com/media/4yAGJLPdbpNDgKisFH/giphy.gif" width="50"> Aplicativos
+
  
  <a href="https://github.com/gomestzx/encurts"> Encurts </a> <br>
  <a href="https://glassmorphism-css.vercel.app/"> CovidApp </a>
- 
- 
- 
+
 
 <div> 
   <a href="https://instagram.com/gomestzx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -35,3 +34,4 @@
  
  
 </div>
+
