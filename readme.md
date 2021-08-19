@@ -11,16 +11,16 @@
   
 </div>
 
-<h5> Veja alguns dos meus projetos: </h5>
+<h3> Veja alguns dos meus projetos: </h3>
 
-<h5> :computer: Sites </h5> 
+<h4> :computer: Sites </h4> 
 
  Portfólio em ReactJS: <a href="https://gomestzx.github.io/"> gomestzx.github.io </a> <br>
  packsgratuitos.com: <a href="https://packsgratuitos.com"> packsgratuitos.com </a> <br>
  wallpaper4geek.com: <a href="https://wallpaper4geek.com">wallpaper4geek.com</a> <br>
  Gerador de glassmorfismo para css <a href="https://glassmorphism-css.vercel.app/"> glasscssgenerator.vercel.app </a>
  
- <h5> :iphone: Aplicativos </h5>
+ <h4> :iphone: Aplicativos </h4>
  
  <a href="https://github.com/gomestzx/encurts"> Encurts </a> <br>
  <a href="https://glassmorphism-css.vercel.app/"> CovidApp </a>
