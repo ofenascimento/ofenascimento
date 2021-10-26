@@ -18,7 +18,6 @@
  Portfólio em ReactJS: <a href="https://gomestzx.github.io/"> gomestzx.github.io </a> <br>
  packsgratuitos.com: <a href="https://packsgratuitos.com"> packsgratuitos.com </a> <br>
  wallpaper4geek.com: <a href="https://wallpaper4geek.com">wallpaper4geek.com</a> <br>
- Gerador de glassmorfismo para css <a href="https://glassmorphism-css.vercel.app/"> glasscssgenerator.vercel.app </a>
  
  ### <img src="https://media.giphy.com/media/4yAGJLPdbpNDgKisFH/giphy.gif" width="50"> Aplicativos
 
