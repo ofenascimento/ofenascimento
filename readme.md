@@ -22,8 +22,8 @@
  ### <img src="https://media.giphy.com/media/4yAGJLPdbpNDgKisFH/giphy.gif" width="50"> Aplicativos
 
  
- <a href="https://github.com/gomestzx/encurts"> Encurts </a> <br>
- <a href="https://glassmorphism-css.vercel.app/"> CovidApp </a>
+ <a href="https://github.com/gomestzx/encurts"> Encurts (Encurtador de links com a api do bit.ly) </a> <br>
+ <a href="https://glassmorphism-css.vercel.app/"> CovidApp (App que mostra dados atualizados do estado do Pará sobre a covid 19) </a>
 
 
 <div> 
