@@ -18,7 +18,7 @@
  Portfólio em ReactJS: <a href="https://gomestzx.github.io/"> gomestzx.github.io </a> <br>
  packsgratuitos.com: <a href="https://packsgratuitos.com"> packsgratuitos.com </a> <br>
  wallpaper4geek.com: <a href="https://wallpaper4geek.com">wallpaper4geek.com</a> <br>
- Landing page em NextJS: <a href="https://landing-page-nextjsgomes.vercel.app/">https://landing-page-nextjsgomes.vercel.app/</a> <br>
+ Landing page em NextJS: <a href="https://landing-page-nextjsgomes.vercel.app/">landing-page-nextjsgomes.vercel.app</a> <br>
  
  ### <img src="https://media.giphy.com/media/4yAGJLPdbpNDgKisFH/giphy.gif" width="50"> Aplicativos
 
