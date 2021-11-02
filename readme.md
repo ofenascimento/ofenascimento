@@ -1,4 +1,4 @@
-### Meu nome é Felipe Matheus, sou Desenvolvedor Web e Mobile :wave:
+### Meu nome é Felipe Matheus, sou Desenvolvedor Front-end :wave:
 
 <div style="display: inline_block">
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
