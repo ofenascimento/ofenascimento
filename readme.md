@@ -18,7 +18,7 @@
  Portfólio: <a href="https://gomestzx.github.io/"> gomestzx.github.io </a> <br>
  Blog para designers: <a href="https://packsgratuitos.com"> packsgratuitos.com </a> <br>
  Site para baixar wallpapers: <a href="https://wallpaper4geek.com">wallpaper4geek.com</a> <br>
- Landing page em NextJS: <a href="https://landing-page-nextjsgomes.vercel.app/">landing-page-nextjsgomes.vercel.app</a> <br>
+ Landing page em NextJS e ChakraUI: <a href="http://chakra-ui-example-beta.vercel.app//">chakra-ui-example-beta.vercel.app</a> <br>
  
  ### <img src="https://media.giphy.com/media/4yAGJLPdbpNDgKisFH/giphy.gif" width="50"> Aplicativos
 
