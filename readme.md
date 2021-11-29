@@ -1,4 +1,7 @@
-### Meu nome é Felipe Matheus, sou Desenvolvedor Front-end :wave:
+
+
+## Meu nome é Felipe Matheus, sou Desenvolvedor Front-end :wave:
+<br>
 
 <div style="display: inline_block">
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -8,26 +11,17 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   
-  
+  <br>
 </div>
 
-<h3> Veja alguns dos meus projetos: </h3>
 
-### <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="50"> Sites
-
- Portfólio: <a href="https://gomestzx.github.io/"> gomestzx.github.io </a> <br>
- Blog para designers: <a href="https://packsgratuitos.com"> packsgratuitos.com </a> <br>
- Site para baixar wallpapers: <a href="https://wallpaper4geek.com">wallpaper4geek.com</a> <br>
- Landing page em NextJS e ChakraUI: <a href="http://chakra-ui-example-beta.vercel.app//">chakra-ui-example-beta.vercel.app</a> <br>
+ <div align="center">
+  <a href="https://github.com/gomestzx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gomestzx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomestzx&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
- ### <img src="https://media.giphy.com/media/4yAGJLPdbpNDgKisFH/giphy.gif" width="50"> Aplicativos
-
- 
- Encurtador de links com a api do bit.ly: <a href="https://github.com/gomestzx/encurts"> Encurts  </a> <br>
- App que mostra dados atualizados do estado do Pará sobre a covid 19: <a href="https://glassmorphism-css.vercel.app/"> CovidApp </a>
-
-
-<h3> Contato: </h3>
+ <br>
 
 <div> 
   <a href="https://instagram.com/gomestzx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
