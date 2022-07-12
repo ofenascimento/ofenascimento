@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    I'm a frontend developer who likes to build awesome websites<br/><br/>
+    I'm a frontend developer who likes to build awesome websites
   </em>
 </p>
 
