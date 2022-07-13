@@ -10,7 +10,7 @@
 ## **About me**
 
 - ❤️ I love the intersection of code and design
-- 🌱 I'm currently learning developing backend to become a full stack developer
+- 🌱 I'm currently learning backend development to become a fullstack developer
 - 💬 I like to talk about web3 and cyber security 😉
 
 <br>
