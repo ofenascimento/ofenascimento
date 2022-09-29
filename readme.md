@@ -12,7 +12,7 @@
 - ❤️ I love the intersection of code and design
 - 🚀 I'm currently learning developing backend to become a full stack developer
 - 💬 I like to talk about web3 and cyber security 
-- 🦄 I created a webApp for devs 👉 <a target="_blank" style="color: #096FFE; font-weight: 700" href="https://tools4css.vercel.app"> Tools4CSS</a>
+- 🦄 I created a webApp for devs 👉 <a target="_blank" style="color: #096FFE; font-weight: 700" href="https://tools4css.com"> Tools4CSS.com</a>
 
 <br>
 
