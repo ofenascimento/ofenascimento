@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    I'm a frontend developer who likes to build awesome websites
+    I'm a fullstack developer who likes to build awesome websites
   </em>
 </p>
 
@@ -10,8 +10,8 @@
 ## **About me**
 
 - ❤️ I love the intersection of code and design
-- 🚀 I'm currently learning developing backend to become a full stack developer
-- 💬 I like to talk about web3 and cyber security 
+- 🚀 I currently work as a full stack developer at <a target="_blank" style="color: #096FFE; font-weight: 700" href="https://geekie.com.br"> geekie.com.br</a>
+- 💬 I like to talk about UI/UX and indie hacker products
 - 🦄 I created a webApp for devs 👉 <a target="_blank" style="color: #096FFE; font-weight: 700" href="https://tools4css.com"> Tools4CSS.com</a>
 
 <br>
