@@ -10,9 +10,9 @@
 ## **About me**
 
 - ❤️ I love the intersection of code and design
-- 🚀 I currently work as a full stack developer at <a target="_blank" style="color: #096FFE; font-weight: 700" href="https://geekie.com.br"> geekie.com.br</a>
 - 💬 I like to talk about UI/UX and indie hacker products
-- 🦄 I created a webApp for devs 👉 <a target="_blank" style="color: #096FFE; font-weight: 700" href="https://tools4css.com"> Tools4CSS.com</a>
+- 📚 I created a free books site 👉 **[LivrosGratuitos.com](https://livrosgratuitos.com)**
+
 
 <br>
 
@@ -31,3 +31,4 @@ const FelipeMatheus = {
 [![Linkedin](https://img.shields.io/static/v1?label=Portofolio&message=👈&style=for-the-badge&logo=Myspace&logoColor=white&color=red)](https://gomestzx.github.io/)
 
 </div>
+
